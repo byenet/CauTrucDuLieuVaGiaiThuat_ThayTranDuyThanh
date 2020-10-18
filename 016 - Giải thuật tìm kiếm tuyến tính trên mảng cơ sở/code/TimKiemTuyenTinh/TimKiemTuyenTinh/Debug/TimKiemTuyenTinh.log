@@ -1,0 +1,4 @@
+﻿  TimKiemTuyenTinh.cpp
+g:\project_code\project\cau truc du lieu va giai thuat_tranduythanh\016 - giải thuật tìm kiếm tuyến tính trên mảng cơ sở\code\timkiemtuyentinh\timkiemtuyentinh\timkiemtuyentinh.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TimKiemTuyenTinh.vcxproj -> G:\Project_code\project\Cau truc du lieu va giai thuat_TranDuyThanh\016 - Giải thuật tìm kiếm tuyến tính trên mảng cơ sở\code\TimKiemTuyenTinh\Debug\TimKiemTuyenTinh.exe
+  TimKiemTuyenTinh.vcxproj -> G:\Project_code\project\Cau truc du lieu va giai thuat_TranDuyThanh\016 - Giải thuật tìm kiếm tuyến tính trên mảng cơ sở\code\TimKiemTuyenTinh\Debug\TimKiemTuyenTinh.pdb (Full PDB)
