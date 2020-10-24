@@ -1,0 +1,4 @@
+﻿  BubbleSort.cpp
+g:\project_code\project\cau truc du lieu va giai thuat_tranduythanh\026 - bubble sort triển khai\code\bubblesort\bubblesort\bubblesort.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BubbleSort.vcxproj -> G:\Project_code\project\Cau truc du lieu va giai thuat_TranDuyThanh\026 - Bubble sort triển khai\code\BubbleSort\Debug\BubbleSort.exe
+  BubbleSort.vcxproj -> G:\Project_code\project\Cau truc du lieu va giai thuat_TranDuyThanh\026 - Bubble sort triển khai\code\BubbleSort\Debug\BubbleSort.pdb (Full PDB)
